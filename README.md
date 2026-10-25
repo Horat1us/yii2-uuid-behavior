@@ -1,8 +1,10 @@
 # Yii2 UUID Behavior
-[![Build Status](https://travis-ci.org/Horat1us/yii2-uuid-behavior.svg?branch=master)](https://travis-ci.org/Horat1us/yii2-uuid-behavior)
+[![Test & Lint](https://github.com/Horat1us/yii2-uuid-behavior/actions/workflows/php.yml/badge.svg?branch=master)](https://github.com/Horat1us/yii2-uuid-behavior/actions/workflows/php.yml)
 [![codecov](https://codecov.io/gh/Horat1us/yii2-uuid-behavior/branch/master/graph/badge.svg)](https://codecov.io/gh/Horat1us/yii2-uuid-behavior)
 
 Behavior to generate UUID values (mostly, for ActiveRecord primary key).
+
+Compatibility: tested on PHP 8.4, PHP 8.5
 
 ## Installation
 Using [packagist.org](https://packagist.org/packages/horat1us/yii2-uuid-behavior):
